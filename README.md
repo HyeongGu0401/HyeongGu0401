@@ -1,6 +1,6 @@
 ### Introduce me 👋
 
-• 💻  I’m currently learning JS
+• 💻  I’m currently learning JS \n
 • 😎  How to contact me, discode: PHG#4931
 
 ### My stats ⚡
