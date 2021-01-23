@@ -1,7 +1,7 @@
 ### Introduce me 👋
 
 - 💻  I’m currently learning JS  
-- 😎  How to contact me discode: PHG#4931
+- 😎  How to contact me discord : PHG#4931
 
 ### My stats ⚡
 ![HeongGu's github stats](https://github-readme-stats.vercel.app/api?username=HyeongGu0401&show_icons=true&theme=solarized-light)
