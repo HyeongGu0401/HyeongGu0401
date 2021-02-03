@@ -1,6 +1,6 @@
 ### Introduce me 👋
 
-- 💻  I’m currently learning JS  
+- 💻  I’m currently learning JS, back-end  
 - 😎  How to contact me discord : PHG#4931
 
 ### My stats ⚡
