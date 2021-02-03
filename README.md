@@ -1,5 +1,6 @@
-### Introduce me 👋
+## 나에 대해
 
+> 저는 16살이며 웹을 통해 프로그래밍을 시작해서 Back-end 개발을 배우고있습니다.
 - 💻  I’m currently learning JS, back-end  
 - 😎  How to contact me discord : PHG#4931
 
